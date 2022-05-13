@@ -8,7 +8,12 @@
     "profile": {
       "name": "Oscar",
       "surnames": "Iglesias Roqueiro",
+      "title": "Senior Full Stack Engineer at Skillz Inc.",
       "description": "Siempre he querido trabajar en informática, pasando desde un principio por temas de redes de computadores y programación en COBOL a reciclarme con el paso de los años a programación para empresas principalmente en los ERPs que he ido aprendiendo (hasta el momento 3 diferentes). Es por ello que considero que quizás estoy un poco al margen de todo el meollo de nuevas tecnologías (frontend, backend, ...) ya que siempre he tenido que lidiar con el lenguaje necesario para desarrollar en el ERP utilizado en cada momento. Durante todos estos años siempre he disfrutado de trabajar con datos (Oracle, SQL Server) y el análisis de los mismos para business intelligence, hasta ahora con Qlikview y empezando un poco con Powerbi.\nSiempre he tenido que aprender y reciclarme, incluso siendo algo autodidacta en el aprendizaje de todas las tecnologías y ERPs utilizados con lo que no tengo miedo ante nuevos retos si tengo un margen de tiempo para aprender. Considero que incluso con pocos conocimientos soy capaz de producir en un corto espacio de tiempo.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/13/d6f19e9e-8721-434d-8836-f6615a0205b5_1573517282376.1573517282376"
+      },
       "location": {
         "notes": "Ourense, Galicia, España"
       }
@@ -20,15 +25,41 @@
       }
     ]
   },
-  "knowledge": {
-    "languages": [
+  "experience": {
+    "jobs": [
       {
-        "name": "Spanish"
+        "organization": {
+          "name": "Skillz Inc.",
+          "URL": "https://www.linkedin.com/company/skillz?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Senior Full Stack Engineer",
+            "startDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "- Created framework and management system for company's international expansion enabling multiple currencies and regions to be added to the global market plan - Created management system for enhanced Leagues feature enabling product team to fully define custom demographics within the user base to increase customer engagement on the platform - Built a customized in house Snowflake adapter for Ruby applications to migrate all services from Redshift to Snowflake - Designed, developed, and lead custom e-commerce solution to enable an autonomous product redemption flow - Strengthened user centric fraud detection services to catch malicious users on the platform - Migrated services to Kubernetes to support horizontal scalability and increased availability - Maintained API contracts for effective cross team collaboration - Supported, monitored, and maintained all aspects of AWS system architecture - Interviewed candidates of all skill levels for high velocity roles in engineering"
+              }
+            ]
+          }
+        ]
       },
       {
-        "name": "English"
+        "organization": {
+          "name": "Mentor Graphics",
+          "URL": "https://www.linkedin.com/company/mentor_graphics?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2015-04-01",
+            "finishDate": "2019-08-31"
+          }
+        ]
       }
-    ],
+    ]
+  },
+  "knowledge": {
     "hardSkills": [
       {
         "skill": {
@@ -46,6 +77,28 @@
         "skill": {
           "name": "Qlik",
           "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Bachelor of Science - BS Psychology",
+        "startDate": "2022-05-13",
+        "institution": {
+          "name": "University of Oregon",
+          "URL": "https://www.linkedin.com/school/university-of-oregon/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Bachelor of Science - BS Computer Science",
+        "startDate": "2022-05-13",
+        "institution": {
+          "name": "Oregon State University",
+          "URL": "https://www.linkedin.com/school/oregon-state-university/?trk=public_profile_school_profile-section-card_full-click"
         }
       }
     ]
