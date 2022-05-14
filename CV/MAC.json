@@ -106,6 +106,22 @@
           "URL": "https://www.linkedin.com/in/oscar-iglesias-roqueiro/"
         }
       ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Qlik",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        },
+        {
+          "name": "SSRS",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
