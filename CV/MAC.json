@@ -20,27 +20,6 @@
       }
     ]
   },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Skillz Inc.",
-          "URL": "https://www.linkedin.com/company/skillz?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Senior Full Stack Engineer",
-            "startDate": "2019-09-01",
-            "challenges": [
-              {
-                "description": "- Created framework and management system for company's international expansion enabling multiple currencies and regions to be added to the global market plan - Created management system for enhanced Leagues feature enabling product team to fully define custom demographics within the user base to increase customer engagement on the platform - Built a customized in house Snowflake adapter for Ruby applications to migrate all services from Redshift to Snowflake - Designed, developed, and lead custom e-commerce solution to enable an autonomous product redemption flow - Strengthened user centric fraud detection services to catch malicious users on the platform - Migrated services to Kubernetes to support horizontal scalability and increased availability - Maintained API contracts for effective cross team collaboration - Supported, monitored, and maintained all aspects of AWS system architecture - Interviewed candidates of all skill levels for high velocity roles in engineering"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
   "knowledge": {
     "languages": [
       {
