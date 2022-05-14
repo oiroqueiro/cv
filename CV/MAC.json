@@ -38,19 +38,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Mentor Graphics",
-          "URL": "https://www.linkedin.com/company/mentor_graphics?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2015-04-01",
-            "finishDate": "2019-08-31"
-          }
-        ]
       }
     ]
   },
