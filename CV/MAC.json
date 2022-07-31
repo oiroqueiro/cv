@@ -67,6 +67,14 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "Qlik",
           "type": "technology"
         },
