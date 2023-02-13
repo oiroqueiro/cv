@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/31/8c23143e-a15d-4329-85b0-feb89b85b6a4_foto-selfie.jpg"
       },
       "location": {
-        "notes": "Ourense, Galicia, España"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Ourense",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -28,10 +31,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -43,13 +48,13 @@
       },
       {
         "skill": {
-          "name": "SSRS",
+          "name": "Qlik",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Qlik",
+          "name": "SSRS",
           "type": "technology"
         }
       }
@@ -71,11 +76,23 @@
           "type": "technology"
         },
         {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Pandas",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
         {
           "name": "Qlik",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
           "type": "technology"
         },
         {
@@ -85,8 +102,19 @@
         {
           "name": "SSRS",
           "type": "technology"
+        },
+        {
+          "name": "Tableau",
+          "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Data Analysis & BI",
+        "Data Engineer",
+        "Data Scientist",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
