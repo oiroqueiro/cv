@@ -98,14 +98,6 @@
         {
           "name": "SQLServer",
           "type": "technology"
-        },
-        {
-          "name": "SSRS",
-          "type": "technology"
-        },
-        {
-          "name": "Tableau",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
