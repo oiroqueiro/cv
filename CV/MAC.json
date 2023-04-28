@@ -146,6 +146,32 @@
               {
                 "description": "Programador de soluciones en cobol y en ERP sobre Oracle. Técnico de sistemas y redes de ordenadores \n- Developer 2000 \n- Oracle \n- RM/Cobol \n- Redes Windows \n- Redes Unix (SCO, Aix) \n- Redes Novel"
               }
+            ],
+            "competences": [
+              {
+                "name": "AIX",
+                "type": "technology"
+              },
+              {
+                "name": "Cobol",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SUSE",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              }
             ]
           }
         ]
