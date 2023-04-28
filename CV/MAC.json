@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Ourense",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Ourense"
       }
     },
     "relevantLinks": [
@@ -32,15 +31,38 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Roberto Verino",
+          "image": {
+            "alt": "RVLogo.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/5371fb3f-9532-4e34-8db8-f94f78539538_rvlogo.jpeg"
+          },
+          "URL": "https://www.robertoverino.com/"
+        },
+        "roles": [
+          {
+            "name": "Departmento TIC. Programador ERP. Analista de datos.",
+            "startDate": "2014-04-01",
+            "challenges": [
+              {
+                "description": "Roberto Verino Oficial logo\nDepartmento TICDepartmento TIC\nRoberto Verino Oficial · Full-timeRoberto Verino Oficial · Full-time\nApr 2014 - Present · 9 yrs 1 moApr 2014 - Present · 9 yrs 1 mo\nOurense y alrededores, España · On-siteOurense y alrededores, España · On-site\nEstoy trabajando como analista de desarrolladores y analista de datos para proporcionar una nueva funcionalidad al ERP de nuestra empresa. En mi día a día puedo desarrollar una parte front-end para los stakeholders o preparar la recogida, transformación y análisis de datos en un back-end.\nTambién realizo pipelines para integraciones con sistemas externos y análisis de inteligencia de negocios.\n\n· Analista Desarrollador en Microsoft Dynamics AX, ampliando la funcionalidad del ERP de la empresa:\n - MorphX\n -X++\n - .Neto\n - SSRS\n· Crear procesos y consultas para la extracción y análisis de datos:\n - SQL Server\n· Desarrollo de indicadores de Business Intelligence:\n -Qlikview\n· Elaboración de informes para Business Intelligence:\n - Qlik NPrinting"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -308,27 +330,6 @@
         "Data Scientist",
         "Machine Learning Engineer"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "SQL",
-        "type": "technology"
-      },
-      {
-        "name": "BI",
-        "type": "technology"
-      },
-      {
-        "name": "ETL",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
