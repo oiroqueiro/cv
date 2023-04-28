@@ -202,6 +202,38 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Hackshow Remote Campus March 2023",
+          "description": "IHRepo, a helper that automatically transcribes and processes any audio or video, organizes it and finds the exact moment for you.",
+          "URL": "https://zoom.us/rec/play/jTJYp92IukJZ3wr-1s6B1nm9NaR7kPb9yCJMJKEsTNr_pJNGSEL4DAxxUo7UafpYPojBGblIHzdIiGLM.btywOf4_ToQmcBdU?autoplay=true&startTime=1680105832000",
+          "image": {
+            "alt": "IHRepo logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/5e3b1ff6-3bdc-44a4-8d23-d433e554ba30_ihrepo-logo.png"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2023-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Presentación"
+        ]
+      }
     ]
   },
   "knowledge": {
