@@ -117,6 +117,25 @@
             "startDate": "2023-02-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Lyrics - Sentiment analysis of songs by top 100 world artists",
+          "description": "Mid bootcamp project at Ironhack. Theme at our choice but with the following restrictions:\n- Dataset of 100 rows x 10 columns maximum\n- The dataset we had to build ourselves manually for the most part\nMy solution includes the use of: Python, Spotify API, Genius web scraping, Fast Text and translators for language detection and translation, Flair for sentiment analysis, NLTK top words and Flask for a demo.",
+          "URL": "https://public.tableau.com/views/Mid-BootcampProject_16711135428210/Lyrics?:language=en-US&:display_count=n&:origin=viz_share_link",
+          "image": {
+            "alt": "lyrics.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/41bead85-234b-4f02-bc51-fb01d6dfdf00_lyrics.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-12-01",
+            "finishDate": "2022-12-01"
+          }
+        ]
       }
     ]
   },
