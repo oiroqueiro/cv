@@ -53,6 +53,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Excelia",
+          "image": {
+            "alt": "ExceliaLogo.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/fe4b72b9-887a-404a-a165-4626f3d00b37_excelialogo.jpeg"
+          },
+          "URL": "https://excelia.com/"
+        },
+        "roles": [
+          {
+            "name": "Consultor técnico / Jefe de equipo de desarrollo",
+            "startDate": "2007-01-01",
+            "finishDate": "2014-03-01",
+            "challenges": [
+              {
+                "description": "Consultor técnico, analista y programador realizando funciones de jefe de equipo liderando, planificando y organizando el trabajo de un grupo de gente. \nTambién compartí mis conocimientos con otras personas durante las sesiones como profesor que fui haciendo asiduamente, tanto en mi empresa como en empresas clientes o incluso impartiendo cursos en la universidad.\n\n- Navision\n- Microsoft CRM 2011 (On-premise y Online)\n- Qlikview\n- PowerPivot\n- SQL Server\n- SRSS Reporting Services"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
