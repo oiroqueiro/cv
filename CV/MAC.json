@@ -98,6 +98,26 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Ironhack Repository",
+          "description": "Final project of my Data Analytics Bootcamp where I created a process that Transcribe and then do captioning, summarizing, extracting of keywords and translate everything to different languages. Store all in a MySQL ddbb. I also created one Django app to search and find the videos by any text in any language and also search some text to find the exact moment of the video where the text is mentioned. Then can play the video with the subtitle chosen starting in the position we chose.",
+          "URL": "https://github.com/oiroqueiro/final-project-bootcamp",
+          "image": {
+            "alt": "IHRepository.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/efd92a03-1f88-4ad0-b341-5f1bcd60de40_ihrepository.jpeg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-02-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
