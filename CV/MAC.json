@@ -90,6 +90,40 @@
               {
                 "description": "Consultor técnico, analista y programador realizando funciones de jefe de equipo liderando, planificando y organizando el trabajo de un grupo de gente. \nTambién compartí mis conocimientos con otras personas durante las sesiones como profesor que fui haciendo asiduamente, tanto en mi empresa como en empresas clientes o incluso impartiendo cursos en la universidad.\n\n- Navision\n- Microsoft CRM 2011 (On-premise y Online)\n- Qlikview\n- PowerPivot\n- SQL Server\n- SRSS Reporting Services"
               }
+            ],
+            "competences": [
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NAV",
+                "type": "technology"
+              },
+              {
+                "name": "Navision",
+                "type": "technology"
+              },
+              {
+                "name": "Power Pivot",
+                "type": "technology"
+              },
+              {
+                "name": "Qlik",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "SSRS",
+                "type": "technology"
+              }
             ]
           }
         ]
