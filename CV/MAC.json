@@ -133,7 +133,29 @@
           {
             "name": "Developer",
             "startDate": "2022-12-01",
-            "finishDate": "2022-12-01"
+            "finishDate": "2022-12-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Selenium",
+                "type": "technology"
+              },
+              {
+                "name": "Tableau",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
