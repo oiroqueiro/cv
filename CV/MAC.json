@@ -462,6 +462,24 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Data Analitycs Course",
+        "startDate": "2022-09-01",
+        "finishDate": "2023-03-01",
+        "institution": {
+          "name": "Ironhack",
+          "description": "Curso en remoto de Data Analytics durante el bootcamp de Ironhack",
+          "URL": "https://www.ironhack.com/",
+          "image": {
+            "alt": "ironhack logo.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/9efeb9fe-8e2d-4f32-a0c6-5ddda6010d52_ironhack-logo.jpeg"
+          }
+        }
+      }
     ]
   },
   "careerPreferences": {
