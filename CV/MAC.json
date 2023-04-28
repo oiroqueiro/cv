@@ -75,6 +75,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Edisa",
+          "image": {
+            "alt": "EdisaLogo.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/6fecf094-b301-4a21-83e8-9b66c030746e_edisalogo.jpeg"
+          },
+          "URL": "https://www.edisa.com/"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador / Técnico de sistemas",
+            "startDate": "1998-03-01",
+            "finishDate": "2005-03-01",
+            "challenges": [
+              {
+                "description": "Programador de soluciones en cobol y en ERP sobre Oracle. Técnico de sistemas y redes de ordenadores \n- Developer 2000 \n- Oracle \n- RM/Cobol \n- Redes Windows \n- Redes Unix (SCO, Aix) \n- Redes Novel"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
