@@ -136,6 +136,25 @@
             "finishDate": "2022-12-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Tableau Project - One story about Life Expectancy",
+          "description": "Individual Tableau project at Ironhack bootcamp that consisted of making a presentation of a topic of our choice.\n\n\n",
+          "URL": "https://public.tableau.com/views/TableauProject_16693794082020/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link",
+          "image": {
+            "alt": "lifeExpectancy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/eb72529a-7b91-4196-9493-162d997228ae_lifeexpectancy.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-11-01",
+            "finishDate": "2022-11-01"
+          }
+        ]
       }
     ]
   },
