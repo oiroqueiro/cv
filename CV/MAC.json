@@ -152,7 +152,17 @@
           {
             "name": "Developer",
             "startDate": "2022-11-01",
-            "finishDate": "2022-11-01"
+            "finishDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Tableau",
+                "type": "technology"
+              }
+            ]
           }
         ]
       }
