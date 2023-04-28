@@ -50,6 +50,24 @@
               {
                 "description": "Roberto Verino Oficial logo\nDepartmento TICDepartmento TIC\nRoberto Verino Oficial · Full-timeRoberto Verino Oficial · Full-time\nApr 2014 - Present · 9 yrs 1 moApr 2014 - Present · 9 yrs 1 mo\nOurense y alrededores, España · On-siteOurense y alrededores, España · On-site\nEstoy trabajando como analista de desarrolladores y analista de datos para proporcionar una nueva funcionalidad al ERP de nuestra empresa. En mi día a día puedo desarrollar una parte front-end para los stakeholders o preparar la recogida, transformación y análisis de datos en un back-end.\nTambién realizo pipelines para integraciones con sistemas externos y análisis de inteligencia de negocios.\n\n· Analista Desarrollador en Microsoft Dynamics AX, ampliando la funcionalidad del ERP de la empresa:\n - MorphX\n -X++\n - .Neto\n - SSRS\n· Crear procesos y consultas para la extracción y análisis de datos:\n - SQL Server\n· Desarrollo de indicadores de Business Intelligence:\n -Qlikview\n· Elaboración de informes para Business Intelligence:\n - Qlik NPrinting"
               }
+            ],
+            "competences": [
+              {
+                "name": "BI",
+                "type": "technology"
+              },
+              {
+                "name": "Qlik",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "SSRS",
+                "type": "technology"
+              }
             ]
           }
         ]
