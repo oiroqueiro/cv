@@ -556,7 +556,53 @@
             "alt": "ironhack logo.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/9efeb9fe-8e2d-4f32-a0c6-5ddda6010d52_ironhack-logo.jpeg"
           }
-        }
+        },
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "BI",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Seaborn",
+            "type": "technology"
+          },
+          {
+            "name": "Selenium",
+            "type": "technology"
+          },
+          {
+            "name": "Tableau",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
