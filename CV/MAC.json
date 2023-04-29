@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Ourense"
+        "municipality": "Ourense",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -317,10 +318,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -618,6 +621,14 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
           "name": "Microsoft Power BI",
           "type": "technology"
         },
@@ -644,6 +655,16 @@
         {
           "name": "SQLServer",
           "type": "technology"
+        },
+        {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
@@ -652,6 +673,27 @@
         "Data Scientist",
         "Machine Learning Engineer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "BI",
+        "type": "technology"
+      },
+      {
+        "name": "ETL",
+        "type": "technology"
+      }
+    ]
   }
 }
