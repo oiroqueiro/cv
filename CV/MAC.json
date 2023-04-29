@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Ourense",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Ourense"
       }
     },
     "relevantLinks": [
@@ -189,7 +188,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/efd92a03-1f88-4ad0-b341-5f1bcd60de40_ihrepository.jpeg"
           }
         },
-        "type": "openSource",
+        "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
@@ -221,7 +220,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/41bead85-234b-4f02-bc51-fb01d6dfdf00_lyrics.png"
           }
         },
-        "type": "openSource",
+        "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
@@ -262,7 +261,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/eb72529a-7b91-4196-9493-162d997228ae_lifeexpectancy.png"
           }
         },
-        "type": "openSource",
+        "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
@@ -318,12 +317,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -673,27 +670,6 @@
         "Data Scientist",
         "Machine Learning Engineer"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "SQL",
-        "type": "technology"
-      },
-      {
-        "name": "BI",
-        "type": "technology"
-      },
-      {
-        "name": "ETL",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
