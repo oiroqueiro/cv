@@ -702,6 +702,14 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "BI",
+        "type": "technology"
+      },
+      {
+        "name": "ETL",
+        "type": "technology"
+      },
+      {
         "name": "Python",
         "type": "technology"
       },
