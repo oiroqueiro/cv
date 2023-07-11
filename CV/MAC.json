@@ -11,26 +11,16 @@
       "title": "Data Analyst & ERP Developer | SQL · Python · Machine Learning · Qlikview · Tableau",
       "description": "Siempre he querido trabajar en informática, pasando desde un principio por temas de redes de computadores y programación en COBOL a reciclarme con el paso de los años a programación para empresas principalmente en los ERPs que he ido aprendiendo (hasta el momento 3 diferentes).\nDurante todos estos años siempre he disfrutado de trabajar con datos (Oracle, SQL Server) y el análisis de los mismos para business intelligence, hasta ahora con Qlikview y empezando un poco con PowerBI y Tableau\n\nSiempre he tenido que aprender y reciclarme, incluso siendo algo autodidacta en el aprendizaje de todas las tecnologías y ERPs utilizados con lo que no tengo miedo ante nuevos retos si tengo un margen de tiempo para dedicarme a ello. Considero que incluso con pocos conocimientos soy capaz de producir en un corto espacio de tiempo.\n\nHe trabajado tanto liderando equipos de desarrollo como formando parte de ellos, siempre tratando de fomentar el compañerismo y el aprendizaje.",
       "avatar": {
-        "alt": "PXL_20230328_160059260-01.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/da836463-1b35-4322-8dea-d0c260cb65e1_pxl_20230328_1600592.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/da836463-1b35-4322-8dea-d0c260cb65e1_pxl_20230328_1600592.jpeg",
+        "alt": "PXL_20230328_160059260-01.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ63hTvLX-Lw0RnKO8dKMmUyk)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "Ourense",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Ourense"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/oiroqueiro"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/oscar-iglesias-roqueiro/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -38,8 +28,8 @@
         "organization": {
           "name": "Roberto Verino",
           "image": {
-            "alt": "RVLogo.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/5371fb3f-9532-4e34-8db8-f94f78539538_rvlogo.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/5371fb3f-9532-4e34-8db8-f94f78539538_rvlogo.jpeg",
+            "alt": "RVLogo.jpeg"
           },
           "URL": "https://www.robertoverino.com/"
         },
@@ -77,8 +67,8 @@
         "organization": {
           "name": "Excelia",
           "image": {
-            "alt": "ExceliaLogo.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/fe4b72b9-887a-404a-a165-4626f3d00b37_excelialogo.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/fe4b72b9-887a-404a-a165-4626f3d00b37_excelialogo.jpeg",
+            "alt": "ExceliaLogo.jpeg"
           },
           "URL": "https://excelia.com/"
         },
@@ -102,11 +92,11 @@
                 "type": "technology"
               },
               {
-                "name": "NAV",
+                "name": "Microsoft Navision",
                 "type": "technology"
               },
               {
-                "name": "Navision",
+                "name": "NAV",
                 "type": "technology"
               },
               {
@@ -133,8 +123,8 @@
         "organization": {
           "name": "Edisa",
           "image": {
-            "alt": "EdisaLogo.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/6fecf094-b301-4a21-83e8-9b66c030746e_edisalogo.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/6fecf094-b301-4a21-83e8-9b66c030746e_edisalogo.jpeg",
+            "alt": "EdisaLogo.jpeg"
           },
           "URL": "https://www.edisa.com/"
         },
@@ -185,8 +175,8 @@
           "description": "Final project of my Data Analytics Bootcamp where I created a process that Transcribe and then do captioning, summarizing, extracting of keywords and translate everything to different languages. Store all in a MySQL ddbb. I also created one Django app to search and find the videos by any text in any language and also search some text to find the exact moment of the video where the text is mentioned. Then can play the video with the subtitle chosen starting in the position we chose.",
           "URL": "https://github.com/oiroqueiro/final-project-bootcamp",
           "image": {
-            "alt": "IHRepository.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/efd92a03-1f88-4ad0-b341-5f1bcd60de40_ihrepository.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/efd92a03-1f88-4ad0-b341-5f1bcd60de40_ihrepository.jpeg",
+            "alt": "IHRepository.jpeg"
           }
         },
         "type": "sideProject",
@@ -213,12 +203,41 @@
       },
       {
         "details": {
+          "name": "Tableau Project - One story about Life Expectancy",
+          "description": "Individual Tableau project at Ironhack bootcamp that consisted of making a presentation of a topic of our choice.\n\n\n",
+          "URL": "https://public.tableau.com/views/TableauProject_16693794082020/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/eb72529a-7b91-4196-9493-162d997228ae_lifeexpectancy.png",
+            "alt": "lifeExpectancy.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Tableau",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Lyrics - Sentiment analysis of songs by top 100 world artists",
           "description": "Mid bootcamp project at Ironhack. Theme at our choice but with the following restrictions:\n- Dataset of 100 rows x 10 columns maximum\n- The dataset we had to build ourselves manually for the most part\nMy solution includes the use of: Python, Spotify API, Genius web scraping, Fast Text and translators for language detection and translation, Flair for sentiment analysis, NLTK top words and Flask for a demo.",
           "URL": "https://public.tableau.com/views/Mid-BootcampProject_16711135428210/Lyrics?:language=en-US&:display_count=n&:origin=viz_share_link",
           "image": {
-            "alt": "lyrics.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/41bead85-234b-4f02-bc51-fb01d6dfdf00_lyrics.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/41bead85-234b-4f02-bc51-fb01d6dfdf00_lyrics.png",
+            "alt": "lyrics.png"
           }
         },
         "type": "sideProject",
@@ -226,7 +245,6 @@
           {
             "name": "Developer",
             "startDate": "2022-12-01",
-            "finishDate": "2022-12-01",
             "competences": [
               {
                 "name": "API",
@@ -248,36 +266,8 @@
                 "name": "Tableau",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Tableau Project - One story about Life Expectancy",
-          "description": "Individual Tableau project at Ironhack bootcamp that consisted of making a presentation of a topic of our choice.\n\n\n",
-          "URL": "https://public.tableau.com/views/TableauProject_16693794082020/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link",
-          "image": {
-            "alt": "lifeExpectancy.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/eb72529a-7b91-4196-9493-162d997228ae_lifeexpectancy.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-11-01",
-            "finishDate": "2022-11-01",
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Tableau",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2022-12-01"
           }
         ]
       }
@@ -289,12 +279,15 @@
           "description": "IHRepo, a helper that automatically transcribes and processes any audio or video, organizes it and finds the exact moment for you.",
           "URL": "https://zoom.us/rec/play/jTJYp92IukJZ3wr-1s6B1nm9NaR7kPb9yCJMJKEsTNr_pJNGSEL4DAxxUo7UafpYPojBGblIHzdIiGLM.btywOf4_ToQmcBdU?autoplay=true&startTime=1680105832000",
           "image": {
-            "alt": "IHRepo logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/5e3b1ff6-3bdc-44a4-8d23-d433e554ba30_ihrepo-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/5e3b1ff6-3bdc-44a4-8d23-d433e554ba30_ihrepo-logo.png",
+            "alt": "IHRepo logo.png"
           }
         },
         "type": "video",
         "publishingDate": "2023-03-01",
+        "tags": [
+          "Presentación"
+        ],
         "relatedCompetences": [
           {
             "name": "Bootstrap",
@@ -308,9 +301,6 @@
             "name": "Python",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Presentación"
         ]
       }
     ]
@@ -318,120 +308,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scikit-learn",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Excel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SciPy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sklearn",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Qlik",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Pivot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SSRS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Query",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Seaborn",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tableau",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Selenium",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLAlchemy",
           "type": "technology"
         }
       },
@@ -443,19 +331,7 @@
       },
       {
         "skill": {
-          "name": "Transact-SQL (T-SQL)",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Cobol",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TOAD",
           "type": "technology"
         }
       },
@@ -467,19 +343,7 @@
       },
       {
         "skill": {
-          "name": "Trello",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ubuntu",
           "type": "technology"
         }
       },
@@ -491,7 +355,7 @@
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "Linux",
           "type": "technology"
         }
       },
@@ -503,19 +367,25 @@
       },
       {
         "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Navision",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Navision",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio",
           "type": "technology"
         }
       },
@@ -533,13 +403,133 @@
       },
       {
         "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Pandas",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PL/SQL",
+          "name": "Power Pivot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Query",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Qlik",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLAlchemy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SSRS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SciPy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scikit-learn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Seaborn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Selenium",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sklearn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TOAD",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Transact-SQL (T-SQL)",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -550,16 +540,16 @@
         "degreeAchieved": true,
         "name": "Data Analitycs Course",
         "startDate": "2022-09-01",
-        "finishDate": "2023-03-01",
         "institution": {
           "name": "Ironhack",
           "description": "Curso en remoto de Data Analytics durante el bootcamp de Ironhack",
           "URL": "https://www.ironhack.com/",
           "image": {
-            "alt": "ironhack logo.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/9efeb9fe-8e2d-4f32-a0c6-5ddda6010d52_ironhack-logo.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/9efeb9fe-8e2d-4f32-a0c6-5ddda6010d52_ironhack-logo.jpeg",
+            "alt": "ironhack logo.jpeg"
           }
         },
+        "finishDate": "2023-03-01",
         "linkedCompetences": [
           {
             "name": "API",
@@ -607,14 +597,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/oscar-iglesias-roqueiro/"
+          "URL": "https://www.linkedin.com/in/oscar-iglesias-roqueiro/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/oiroqueiro",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "roque.ourense@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "629831179",
+          "countryCode": "+34"
         }
       ]
     },
@@ -676,16 +699,8 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "SQL",
-        "type": "technology"
-      },
       {
         "name": "BI",
         "type": "technology"
@@ -693,6 +708,27 @@
       {
         "name": "ETL",
         "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal es un trabajo en el que tenga que trabajar con datos, en el que cada día pueda afrontar nuevos retos y formarme continuamente, en el que hay buen ambiente laboral.\nUn trabajo en el que puedo realizar recopilación de muchos datos, transformándolos, analizándolos y creando informes o dashboards.\nEn un día de trabajo ideal se presentaría con un reto para recopilar información de diferentes puntos, consolidarla y  luego crear informes y gráficos relevantes para los clientes. Cada día habría la posibilidad de aprender de mis compañeros, buscando en Google o enseñándole a otros mis conocimientos.\n",
+    "goodPractices": "El **sentido común**, y tratar de seguir las *buenas prácticas recomendadas* para cada lenguaje. Siempre intento ***documentar*** lo que estoy haciendo de manera general y/o puntualmente en puntos del código que pueden ser un poco complejos de seguir.",
+    "projects": [
+      {
+        "name": "Ironhack Repository"
+      },
+      {
+        "name": "Lyrics - Sentiment analysis of songs by top 100 world artists"
+      },
+      {
+        "name": "Tableau Project - One story about Life Expectancy"
       }
     ]
   }
