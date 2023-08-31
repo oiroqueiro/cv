@@ -9,55 +9,22 @@
       "name": "Oscar",
       "surnames": "Iglesias Roqueiro",
       "title": "Data Analyst & ERP Developer | SQL · Python · Machine Learning · Qlikview · Tableau",
-      "description": "Siempre he querido trabajar en informática, pasando desde un principio por temas de redes de computadores y programación en COBOL a reciclarme con el paso de los años a programación para empresas principalmente en los ERPs que he ido aprendiendo (hasta el momento 3 diferentes).\nDurante todos estos años siempre he disfrutado de trabajar con datos (Oracle, SQL Server) y el análisis de los mismos para business intelligence, hasta ahora con Qlikview y empezando un poco con PowerBI y Tableau\n\nSiempre he tenido que aprender y reciclarme, incluso siendo algo autodidacta en el aprendizaje de todas las tecnologías y ERPs utilizados con lo que no tengo miedo ante nuevos retos si tengo un margen de tiempo para dedicarme a ello. Considero que incluso con pocos conocimientos soy capaz de producir en un corto espacio de tiempo.\n\nHe trabajado tanto liderando equipos de desarrollo como formando parte de ellos, siempre tratando de fomentar el compañerismo y el aprendizaje.",
-      "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/da836463-1b35-4322-8dea-d0c260cb65e1_pxl_20230328_1600592.jpeg",
-        "alt": "PXL_20230328_160059260-01.jpeg"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJ63hTvLX-Lw0RnKO8dKMmUyk)",
-        "country": "España",
-        "region": "Galicia",
-        "municipality": "Ourense"
-      }
+      "description": "Desde que mis padres me regalaron mi primer ordenador personal cuando yo tenía 12 años, la tecnología me apasiona. Cuando empecé a diseñar mis propios sprites en aquel MSX, mi objetivo en la vida se convirtió en diseñar y crear software con mis manos y un teclado.\nDesde entonces no he parado de formarme, puesto que trabajar en un sector tecnológico significa evolucionar constantemente y aprender nuevos lenguajes y capacidades.\nHe dedicado toda mi vida profesional a desarrollar soluciones, analizar y tratar con datos en decenas de empresas de múltiples sectores, desde pequeñas bases de datos en dBase o Microsoft Access hasta grandes bases de datos en sistemas relaciones de varios millones de registros en Oracle o SQL Server.\nEn cada una de las empresas en las que he trabajado he podido aportar mi ilusión por aprender constantemente y facilitar el trabajo a los usuarios finales, así como mi experiencia tanto en la toma de decisiones rápida como en el liderazgo de equipos de desarrollo.\nSoy una persona trabajadora y responsable con una gran capacidad de adaptación a todo tipo de cambios y tecnologías y que disfruta de ser un buen compañero. \nA nivel técnico he podido trabajar (y aprender) varios ERP -Libra, Navision, Dynamics AX- (consultor funcional y técnico), SQL (SQL Server, MySQL y Oracle), Python, Inteligencia de negocio (Qlikview, Tableau, PowerBI), modelos de inteligencia artificial y aprendizaje automático."
     }
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "Roberto Verino",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/5371fb3f-9532-4e34-8db8-f94f78539538_rvlogo.jpeg",
-            "alt": "RVLogo.jpeg"
-          },
-          "URL": "https://www.robertoverino.com/"
+          "name": "Roberto Verino Oficial"
         },
         "roles": [
           {
-            "name": "Departmento TIC. Programador ERP. Analista de datos.",
+            "name": "Análisis de Datos / Analista Desarrollador de ERP",
             "startDate": "2014-04-01",
             "challenges": [
               {
-                "description": "Roberto Verino Oficial logo\nDepartmento TICDepartmento TIC\nRoberto Verino Oficial · Full-timeRoberto Verino Oficial · Full-time\nApr 2014 - Present · 9 yrs 1 moApr 2014 - Present · 9 yrs 1 mo\nOurense y alrededores, España · On-siteOurense y alrededores, España · On-site\nEstoy trabajando como analista de desarrolladores y analista de datos para proporcionar una nueva funcionalidad al ERP de nuestra empresa. En mi día a día puedo desarrollar una parte front-end para los stakeholders o preparar la recogida, transformación y análisis de datos en un back-end.\nTambién realizo pipelines para integraciones con sistemas externos y análisis de inteligencia de negocios.\n\n· Analista Desarrollador en Microsoft Dynamics AX, ampliando la funcionalidad del ERP de la empresa:\n - MorphX\n -X++\n - .Neto\n - SSRS\n· Crear procesos y consultas para la extracción y análisis de datos:\n - SQL Server\n· Desarrollo de indicadores de Business Intelligence:\n -Qlikview\n· Elaboración de informes para Business Intelligence:\n - Qlik NPrinting"
-              }
-            ],
-            "competences": [
-              {
-                "name": "BI",
-                "type": "technology"
-              },
-              {
-                "name": "Qlik",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "SSRS",
-                "type": "technology"
+                "description": "Estoy trabajando como analista de desarrolladores y analista de datos para proporcionar una nueva funcionalidad al ERP de nuestra empresa. En mi día a día puedo desarrollar una parte front-end para los stakeholders o preparar la recogida, transformación y análisis de datos en un back-end.\nTambién realizo pipelines para integraciones con sistemas externos y análisis de inteligencia de negocios.\n\nTareas:\n\n· Mejorar la toma de decisiones con el análisis de los datos del ERP y creando análisis detallados con Qlikview, Nprinting, SSRS y SQL Server.\n\n· Mejorar y optimizar el trabajo de los clientes desarrollando e implementando nuevas funcionalidades en el ERP (Microsoft Dynamics AX) de la empresa.\n\n· Dar soporte a los clientes en el uso del software ERP y Business Intelligence."
               }
             ]
           }
@@ -65,55 +32,16 @@
       },
       {
         "organization": {
-          "name": "Excelia",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/fe4b72b9-887a-404a-a165-4626f3d00b37_excelialogo.jpeg",
-            "alt": "ExceliaLogo.jpeg"
-          },
-          "URL": "https://excelia.com/"
+          "name": "EXCELIA"
         },
         "roles": [
           {
             "name": "Consultor técnico / Jefe de equipo de desarrollo",
             "startDate": "2007-01-01",
-            "finishDate": "2014-03-01",
+            "finishDate": "2014-03-31",
             "challenges": [
               {
-                "description": "Consultor técnico, analista y programador realizando funciones de jefe de equipo liderando, planificando y organizando el trabajo de un grupo de gente. \nTambién compartí mis conocimientos con otras personas durante las sesiones como profesor que fui haciendo asiduamente, tanto en mi empresa como en empresas clientes o incluso impartiendo cursos en la universidad.\n\n- Navision\n- Microsoft CRM 2011 (On-premise y Online)\n- Qlikview\n- PowerPivot\n- SQL Server\n- SRSS Reporting Services"
-              }
-            ],
-            "competences": [
-              {
-                "name": "CRM",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Navision",
-                "type": "technology"
-              },
-              {
-                "name": "NAV",
-                "type": "technology"
-              },
-              {
-                "name": "Power Pivot",
-                "type": "technology"
-              },
-              {
-                "name": "Qlik",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "SSRS",
-                "type": "technology"
+                "description": "Consultor técnico, analista y programador realizando funciones de jefe de equipo liderando, planificando y organizando el trabajo de un grupo de gente. \nTambién compartí mis conocimientos con otras personas durante las sesiones como profesor que fui haciendo asiduamente, tanto en mi empresa como en empresas clientes o incluso impartiendo cursos en la universidad.\n\nTareas:\n\n· Liderar y gestionar un equipo de desarrollo.\n\n· Analizar y transformar los datos de las partes interesadas y crear análisis de Business Intelligence con esos datos, usando Qlikview, PowerPivot, SRSS Reporting Services y SQL Server.\n\n· Desarrollar soluciones en ERP (Microsoft Dynamics NAV) y Software CRM (Microsoft CRM) on-premise y en la nube."
               }
             ]
           }
@@ -121,47 +49,33 @@
       },
       {
         "organization": {
-          "name": "Edisa",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/6fecf094-b301-4a21-83e8-9b66c030746e_edisalogo.jpeg",
-            "alt": "EdisaLogo.jpeg"
-          },
-          "URL": "https://www.edisa.com/"
+          "name": "ALBERIAN SL"
+        },
+        "roles": [
+          {
+            "name": "Responsable de sistemas y telefonía",
+            "startDate": "2005-03-01",
+            "finishDate": "2006-12-31",
+            "challenges": [
+              {
+                "description": "Responsable de sistemas y de la red de trabajo de ordenadores y telefonía. \nAsí como era una empresa pequeña, mi labor fue la de facilitarles el uso de la tecnología y telefonía de la empresa y guiarles y aconsejarles en la toma de decisiones referente a dichos deparmentos.\nTambién realicé funciones de analista programador. \n\n- Access \n- Visual Basic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EDISA"
         },
         "roles": [
           {
             "name": "Analista Programador / Técnico de sistemas",
             "startDate": "1998-03-01",
-            "finishDate": "2005-03-01",
+            "finishDate": "2005-03-31",
             "challenges": [
               {
-                "description": "Programador de soluciones en cobol y en ERP sobre Oracle. Técnico de sistemas y redes de ordenadores \n- Developer 2000 \n- Oracle \n- RM/Cobol \n- Redes Windows \n- Redes Unix (SCO, Aix) \n- Redes Novel"
-              }
-            ],
-            "competences": [
-              {
-                "name": "AIX",
-                "type": "technology"
-              },
-              {
-                "name": "Cobol",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "SUSE",
-                "type": "technology"
-              },
-              {
-                "name": "Unix",
-                "type": "technology"
+                "description": "Programador de soluciones en cobol y en ERP sobre Oracle. Técnico de sistemas y redes de ordenadores \n\nTareas:\n\n· Crear nuevas funcionalidades en el ERP de las partes interesadas basado en Oracle y usando Developer 2000.\n\n· Transformar datos con SQL·Plus.\n\n· Crear nuevas funcionalidades en el ERP secundario de la empresa basado en RM/Cobol.\n\n· Despliegue de redes (Windows, Unix -SCO, Linux, AIX-, Novel)"
               }
             ]
           }
@@ -169,67 +83,6 @@
       }
     ],
     "projects": [
-      {
-        "details": {
-          "name": "Ironhack Repository",
-          "description": "Final project of my Data Analytics Bootcamp where I created a process that Transcribe and then do captioning, summarizing, extracting of keywords and translate everything to different languages. Store all in a MySQL ddbb. I also created one Django app to search and find the videos by any text in any language and also search some text to find the exact moment of the video where the text is mentioned. Then can play the video with the subtitle chosen starting in the position we chose.",
-          "URL": "https://github.com/oiroqueiro/final-project-bootcamp",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/efd92a03-1f88-4ad0-b341-5f1bcd60de40_ihrepository.jpeg",
-            "alt": "IHRepository.jpeg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-02-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Tableau Project - One story about Life Expectancy",
-          "description": "Individual Tableau project at Ironhack bootcamp that consisted of making a presentation of a topic of our choice.\n\n\n",
-          "URL": "https://public.tableau.com/views/TableauProject_16693794082020/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/eb72529a-7b91-4196-9493-162d997228ae_lifeexpectancy.png",
-            "alt": "lifeExpectancy.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-11-01",
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Tableau",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2022-11-01"
-          }
-        ]
-      },
       {
         "details": {
           "name": "Lyrics - Sentiment analysis of songs by top 100 world artists",
@@ -268,6 +121,67 @@
               }
             ],
             "finishDate": "2022-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Tableau Project - One story about Life Expectancy",
+          "description": "Individual Tableau project at Ironhack bootcamp that consisted of making a presentation of a topic of our choice.\n\n\n",
+          "URL": "https://public.tableau.com/views/TableauProject_16693794082020/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/eb72529a-7b91-4196-9493-162d997228ae_lifeexpectancy.png",
+            "alt": "lifeExpectancy.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Tableau",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Ironhack Repository",
+          "description": "Final project of my Data Analytics Bootcamp where I created a process that Transcribe and then do captioning, summarizing, extracting of keywords and translate everything to different languages. Store all in a MySQL ddbb. I also created one Django app to search and find the videos by any text in any language and also search some text to find the exact moment of the video where the text is mentioned. Then can play the video with the subtitle chosen starting in the position we chose.",
+          "URL": "https://github.com/oiroqueiro/final-project-bootcamp",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/efd92a03-1f88-4ad0-b341-5f1bcd60de40_ihrepository.jpeg",
+            "alt": "IHRepository.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-02-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
           }
         ]
       }
