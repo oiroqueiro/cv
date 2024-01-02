@@ -1,16 +1,32 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Oscar",
       "surnames": "Iglesias Roqueiro",
       "title": "Data Analyst & ERP Developer | SQL · Python · Machine Learning · Qlikview · Tableau",
-      "description": "Desde que mis padres me regalaron mi primer ordenador personal cuando yo tenía 12 años, la tecnología me apasiona. Cuando empecé a diseñar mis propios sprites en aquel MSX, mi objetivo en la vida se convirtió en diseñar y crear software con mis manos y un teclado.\nDesde entonces no he parado de formarme, puesto que trabajar en un sector tecnológico significa evolucionar constantemente y aprender nuevos lenguajes y capacidades.\nHe dedicado toda mi vida profesional a desarrollar soluciones, analizar y tratar con datos en decenas de empresas de múltiples sectores, desde pequeñas bases de datos en dBase o Microsoft Access hasta grandes bases de datos en sistemas relaciones de varios millones de registros en Oracle o SQL Server.\nEn cada una de las empresas en las que he trabajado he podido aportar mi ilusión por aprender constantemente y facilitar el trabajo a los usuarios finales, así como mi experiencia tanto en la toma de decisiones rápida como en el liderazgo de equipos de desarrollo.\nSoy una persona trabajadora y responsable con una gran capacidad de adaptación a todo tipo de cambios y tecnologías y que disfruta de ser un buen compañero. \nA nivel técnico he podido trabajar (y aprender) varios ERP -Libra, Navision, Dynamics AX- (consultor funcional y técnico), SQL (SQL Server, MySQL y Oracle), Python, Inteligencia de negocio (Qlikview, Tableau, PowerBI), modelos de inteligencia artificial y aprendizaje automático."
-    }
+      "description": "Desde que mis padres me regalaron mi primer ordenador personal cuando yo tenía 12 años, la tecnología me apasiona. Cuando empecé a diseñar mis propios sprites en aquel MSX, mi objetivo en la vida se convirtió en diseñar y crear software con mis manos y un teclado.\nDesde entonces no he parado de formarme, puesto que trabajar en un sector tecnológico significa evolucionar constantemente y aprender nuevos lenguajes y capacidades.\nHe dedicado toda mi vida profesional a desarrollar soluciones, analizar y tratar con datos en decenas de empresas de múltiples sectores, desde pequeñas bases de datos en dBase o Microsoft Access hasta grandes bases de datos en sistemas relaciones de varios millones de registros en Oracle o SQL Server.\nEn cada una de las empresas en las que he trabajado he podido aportar mi ilusión por aprender constantemente y facilitar el trabajo a los usuarios finales, así como mi experiencia tanto en la toma de decisiones rápida como en el liderazgo de equipos de desarrollo.\nSoy una persona trabajadora y responsable con una gran capacidad de adaptación a todo tipo de cambios y tecnologías y que disfruta de ser un buen compañero. \nA nivel técnico he podido trabajar (y aprender) varios ERP -Libra, Navision, Dynamics AX- (consultor funcional y técnico), SQL (SQL Server, MySQL y Oracle), Python, Inteligencia de negocio (Qlikview, Tableau, PowerBI), modelos de inteligencia artificial y aprendizaje automático.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ63hTvLX-Lw0RnKO8dKMmUyk)",
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Ourense"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/oscar-iglesias-roqueiro/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/oiroqueiro"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -85,6 +101,38 @@
     "projects": [
       {
         "details": {
+          "name": "Ironhack Repository",
+          "description": "Final project of my Data Analytics Bootcamp where I created a process that Transcribe and then do captioning, summarizing, extracting of keywords and translate everything to different languages. Store all in a MySQL ddbb. I also created one Django app to search and find the videos by any text in any language and also search some text to find the exact moment of the video where the text is mentioned. Then can play the video with the subtitle chosen starting in the position we chose.",
+          "URL": "https://github.com/oiroqueiro/final-project-bootcamp",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/efd92a03-1f88-4ad0-b341-5f1bcd60de40_ihrepository.jpeg",
+            "alt": "IHRepository.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-02-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Lyrics - Sentiment analysis of songs by top 100 world artists",
           "description": "Mid bootcamp project at Ironhack. Theme at our choice but with the following restrictions:\n- Dataset of 100 rows x 10 columns maximum\n- The dataset we had to build ourselves manually for the most part\nMy solution includes the use of: Python, Spotify API, Genius web scraping, Fast Text and translators for language detection and translation, Flair for sentiment analysis, NLTK top words and Flask for a demo.",
           "URL": "https://public.tableau.com/views/Mid-BootcampProject_16711135428210/Lyrics?:language=en-US&:display_count=n&:origin=viz_share_link",
@@ -152,38 +200,6 @@
             "finishDate": "2022-11-01"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Ironhack Repository",
-          "description": "Final project of my Data Analytics Bootcamp where I created a process that Transcribe and then do captioning, summarizing, extracting of keywords and translate everything to different languages. Store all in a MySQL ddbb. I also created one Django app to search and find the videos by any text in any language and also search some text to find the exact moment of the video where the text is mentioned. Then can play the video with the subtitle chosen starting in the position we chose.",
-          "URL": "https://github.com/oiroqueiro/final-project-bootcamp",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/28/efd92a03-1f88-4ad0-b341-5f1bcd60de40_ihrepository.jpeg",
-            "alt": "IHRepository.jpeg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-02-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
@@ -223,10 +239,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
