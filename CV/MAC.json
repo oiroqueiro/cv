@@ -101,6 +101,25 @@
     "projects": [
       {
         "details": {
+          "name": "Portfolio",
+          "description": "Creación de mi portafolio con Flask empezando desde cero con conocimientos limitados de desarrollo web y finalizando con la implementación en un servidor VPS con 4 dockers sin tener casi idea de contenedores al empezar.\nFue una travesía larga, para algunos quizás demasiado, pero me siento muy orgulloso de lo que he conseguido al tener un trabajo a tiempo completo y en casa 2 niñas pequeñas nacidas durante la pandemia.",
+          "URL": "https://oscarlytics.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/02/cdbeb83d-3d34-4d83-bdb7-0e386d073e93_favicon512x.png",
+            "alt": "Favicon512x.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-07-01",
+            "finishDate": "2023-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ironhack Repository",
           "description": "Final project of my Data Analytics Bootcamp where I created a process that Transcribe and then do captioning, summarizing, extracting of keywords and translate everything to different languages. Store all in a MySQL ddbb. I also created one Django app to search and find the videos by any text in any language and also search some text to find the exact moment of the video where the text is mentioned. Then can play the video with the subtitle chosen starting in the position we chose.",
           "URL": "https://github.com/oiroqueiro/final-project-bootcamp",
@@ -712,6 +731,9 @@
       },
       {
         "name": "Lyrics - Sentiment analysis of songs by top 100 world artists"
+      },
+      {
+        "name": "Portfolio"
       },
       {
         "name": "Tableau Project - One story about Life Expectancy"
