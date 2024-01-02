@@ -29,6 +29,11 @@
       {
         "type": "github",
         "URL": "https://github.com/oiroqueiro"
+      },
+      {
+        "type": "other",
+        "URL": "https://oscarlytics.com",
+        "description": "Oscarlytics"
       }
     ]
   },
