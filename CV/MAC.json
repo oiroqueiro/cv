@@ -205,6 +205,60 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Portfolio",
+          "description": "Creación de mi portafolio con Flask empezando desde cero con conocimientos limitados de desarrollo web y finalizando con la implementación en un servidor VPS con 4 dockers sin tener casi idea de contenedores al empezar.",
+          "URL": "https://oscarlytics.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/02/581c911e-2bd9-4e05-b764-507da72cf5d8_favicon512x.png",
+            "alt": "Favicon512x.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "Presentación"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Elasticsearch",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Nginx",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLite",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hackshow Remote Campus March 2023",
           "description": "IHRepo, a helper that automatically transcribes and processes any audio or video, organizes it and finds the exact moment for you.",
           "URL": "https://zoom.us/rec/play/jTJYp92IukJZ3wr-1s6B1nm9NaR7kPb9yCJMJKEsTNr_pJNGSEL4DAxxUo7UafpYPojBGblIHzdIiGLM.btywOf4_ToQmcBdU?autoplay=true&startTime=1680105832000",
