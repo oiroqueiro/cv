@@ -639,6 +639,58 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Data Analytics Bootcam",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Ironhack",
+          "URL": "https://www.credential.net/ff08b166-7589-47d5-a826-5af5fed416c5",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/06/93df8765-4eca-4f1c-b3bf-dddaa271f8dc_ironhack-da.png",
+            "alt": "Ironhack DA.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "BI",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "ETL",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Tableau",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "DevOps",
         "startDate": "2023-11-01",
         "institution": {
