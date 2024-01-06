@@ -352,7 +352,19 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "ETL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -430,6 +442,12 @@
       },
       {
         "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Power Pivot",
           "type": "technology"
         }
@@ -467,6 +485,12 @@
       {
         "skill": {
           "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
           "type": "technology"
         }
       },
@@ -712,6 +736,10 @@
     "mainStackTechs": [
       {
         "name": "BI",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
         "type": "technology"
       },
       {
