@@ -9,7 +9,7 @@
       "name": "Oscar",
       "surnames": "Iglesias Roqueiro",
       "title": "Data Analyst & ERP Developer | SQL · Python · Machine Learning · Qlikview · Tableau",
-      "description": "Desde que mis padres me regalaron mi primer ordenador personal cuando yo tenía 12 años, la tecnología me apasiona. Cuando empecé a diseñar mis propios sprites en aquel MSX, mi objetivo en la vida se convirtió en diseñar y crear software con mis manos y un teclado.\nDesde entonces no he parado de formarme, puesto que trabajar en un sector tecnológico significa evolucionar constantemente y aprender nuevos lenguajes y capacidades.\nHe dedicado toda mi vida profesional a desarrollar soluciones, analizar y tratar con datos en decenas de empresas de múltiples sectores, desde pequeñas bases de datos en dBase o Microsoft Access hasta grandes bases de datos en sistemas relaciones de varios millones de registros en Oracle o SQL Server.\nEn cada una de las empresas en las que he trabajado he podido aportar mi ilusión por aprender constantemente y facilitar el trabajo a los usuarios finales, así como mi experiencia tanto en la toma de decisiones rápida como en el liderazgo de equipos de desarrollo.\nSoy una persona trabajadora y responsable con una gran capacidad de adaptación a todo tipo de cambios y tecnologías y que disfruta de ser un buen compañero. \nA nivel técnico he podido trabajar (y aprender) varios ERP -Libra, Navision, Dynamics AX- (consultor funcional y técnico), SQL (SQL Server, MySQL y Oracle), Python, Inteligencia de negocio (Qlikview, Tableau, PowerBI), modelos de inteligencia artificial y aprendizaje automático.",
+      "description": "Desde que mis padres me regalaron mi primer ordenador personal cuando yo tenía 12 años, la tecnología me apasiona. Cuando empecé a diseñar mis propios sprites en aquel MSX, mi objetivo en la vida se convirtió en diseñar y crear software con mis manos y un teclado.\nDesde entonces no he parado de formarme, puesto que trabajar en un sector tecnológico significa evolucionar constantemente y aprender nuevos lenguajes y capacidades.\nHe dedicado toda mi vida profesional a desarrollar soluciones, analizar y tratar con datos en decenas de empresas de múltiples sectores, desde pequeñas bases de datos en dBase o Microsoft Access hasta grandes bases de datos en sistemas relaciones de varios millones de registros en Oracle o SQL Server.\nEn cada una de las empresas en las que he trabajado he podido aportar mi ilusión por aprender constantemente y facilitar el trabajo a los usuarios finales, así como mi experiencia tanto en la toma de decisiones rápida como en el liderazgo de equipos de desarrollo.\nSoy una persona trabajadora y responsable con una gran capacidad de adaptación a todo tipo de cambios y tecnologías y que disfruta de ser un buen compañero. \nA nivel técnico he podido trabajar (y aprender) varios ERP -Libra, Navision, Dynamics AX- (consultor funcional y técnico), SQL (SQL Server, MySQL, Postgres y Oracle), Python, Inteligencia de negocio (Qlikview, Tableau, PowerBI), contenedores (Docker), modelos de inteligencia artificial y aprendizaje automático.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/02/e55d5f56-c73a-4438-b293-dbcc70b2a74a_foto-oscar-iglesias-.jpg",
         "alt": "Foto Oscar Iglesias 1110x lost.jpg"
@@ -648,12 +648,6 @@
       ],
       "contactMails": [
         "roque.ourense@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "629831179",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
