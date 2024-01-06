@@ -635,6 +635,16 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "DevOps",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "Uplimit",
+          "URL": "https://www.credential.net/4da965bd-b525-4a85-af75-a5b3b5f298cf"
+        }
       }
     ],
     "softSkills": [
