@@ -679,6 +679,10 @@
             "type": "technology"
           },
           {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
             "name": "Python",
             "type": "technology"
           },
