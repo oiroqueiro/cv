@@ -41,6 +41,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "Sociedad Textil Lonia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/11/ad537d12-323f-4914-a764-1c9528600c9c_sociedad_textil_loni.jpeg",
+            "alt": "sociedad_textil_lonia_stl_logo.jpeg"
+          },
+          "URL": "https://www.stlonia.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Business Intelligence Analyst",
+            "startDate": "2024-10-01",
+            "challenges": [
+              {
+                "description": "Trabajo como analista senior de Business Intelligence en *Sociedad Textil Lonia (STL)* en Ourense, Galicia, España. \nMi función consiste en gestionar y colaborar con el equipo de Business Intelligence para desarrollar nuevos cuadros de mando e informes para las marcas **CH Carolina Herrera** y **Purificación García**. \nAl integrar diversas fuentes de datos a través de procesos ETL, proporcionamos información valiosa para la toma de decisiones, impulsamos decisiones comerciales estratégicas y mejoramos la eficiencia operativa.Trabajo como analista senior de Business Intelligence en Sociedad Textil Lonia (STL) en Ourense, Galicia, España. Mi función consiste en gestionar y colaborar con el equipo de Business Intelligence para desarrollar nuevos cuadros de mando e informes para CH Carolina Herrera y Purificación García. Al integrar diversas fuentes de datos a través de procesos ETL, proporcionamos información valiosa para la toma de decisiones, impulsamos decisiones comerciales estratégicas y mejoramos la eficiencia operativa.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft SQL Integration Services (SSIS)",
+                "type": "technology"
+              },
+              {
+                "name": "Power Query",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Transact-SQL (T-SQL)",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Roberto Verino Oficial"
         },
         "roles": [
