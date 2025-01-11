@@ -84,12 +84,18 @@
       },
       {
         "organization": {
-          "name": "Roberto Verino Oficial"
+          "name": "Roberto Verino Oficial",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/11/75ff4817-5fab-41a8-8bfc-e2eccd20e97f_rv.jpg",
+            "alt": "rv.jpg"
+          },
+          "URL": "https://www.robertoverino.com/"
         },
         "roles": [
           {
             "name": "Análisis de Datos / Analista Desarrollador de ERP",
             "startDate": "2014-04-01",
+            "finishDate": "2024-10-01",
             "challenges": [
               {
                 "description": "Estoy trabajando como analista de desarrolladores y analista de datos para proporcionar una nueva funcionalidad al ERP de nuestra empresa. En mi día a día puedo desarrollar una parte front-end para los stakeholders o preparar la recogida, transformación y análisis de datos en un back-end.\nTambién realizo pipelines para integraciones con sistemas externos y análisis de inteligencia de negocios.\n\nTareas:\n\n· Mejorar la toma de decisiones con el análisis de los datos del ERP y creando análisis detallados con Qlikview, Nprinting, SSRS y SQL Server.\n\n· Mejorar y optimizar el trabajo de los clientes desarrollando e implementando nuevas funcionalidades en el ERP (Microsoft Dynamics AX) de la empresa.\n\n· Dar soporte a los clientes en el uso del software ERP y Business Intelligence."
